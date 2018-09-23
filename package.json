@@ -1,0 +1,9 @@
+{
+  "name": "generator-happy-start",
+  "version": "0.0.0",
+  "description": "a yeoman-generator",
+  "main": "index.js",
+  "repository": "https://github.com/yuanhaoyu/generator-happy-start.git",
+  "author": "yuanhaoyu <yhy929768691@gmail.com>",
+  "license": "MIT"
+}
